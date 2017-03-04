@@ -1,3 +1,4 @@
+package com.training.blockchain;
 import java.util.Arrays;
 
 public class UTXO implements Comparable<UTXO> {
